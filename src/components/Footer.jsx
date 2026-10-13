@@ -17,8 +17,8 @@ const Footer = () => {
           <div className="col-md-6 mb-4">
             <h5 className="mb-3 text-info fw-bold">Contact Info</h5>
             <p className="text-light mb-1">Contact Us</p>
-            <p className="text-light mb-1">+1 123 456 7890</p>
-            <p className="text-light mb-0">trm@studentportal.com</p>
+            <p className="text-light mb-1">+92 123 456 7890</p>
+            <p className="text-light mb-0">abc@studentportal.com</p>
           </div>
         </div>
         <hr className="border-secondary my-3" />
